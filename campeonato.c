@@ -1,11 +1,11 @@
 /**************************************************************************
 Descrição do Algoritmo: CAMPEONATO BRASILEIRO
 Nome da Disciplina: Algoritmos
-Nome Professor: Leonair Neves Sousa
-Nome Aluno: Carla Verônica da Silva Soares
-Turma: VE2
-RGA:201521902001
-Data Entrega: 28/02/2018
+Nome Professor: 
+Nome Aluno: Carla Soares
+Turma: 
+RGA:
+Data Entrega: 
 *************************************************************************/
 
 #include <stdio.h>
